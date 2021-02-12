@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Letz Quiz</string>
+    <string name="title">Letz Quiz</string>
+    <string name="trueButton">True</string>
+    <string name="falseButton">False</string>
+    <string name="previous_button">Previous Button</string>
+    <string name="next_button">Next Button</string>
+    <string name="counter_question">0 /100</string>
+</resources>
